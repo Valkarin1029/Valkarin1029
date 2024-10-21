@@ -7,7 +7,7 @@ I am Valkarin. A self taught programmer that is looking to continue learning and
 - Lua, I have coded the A* pathfinding algorithim using OOP in this.
 - Python, The language I started with am comfortable with using.
 - Typescript, I actually had a chance to code a bit using a custom game engine made with typescript.
-- C#, A bit of unity and some badic application stuff.
+- C#, A bit of unity and some basic application stuff.
 - C++, Building a dll but I struggled to get it working properly. Willing to learn more though.
 - JavaScript, I use it time to time for sites.
 ### Game Engines
